@@ -18,6 +18,7 @@
   ## Usage
   
   Load by typing in node index.js into console/terminol
+  
   ![README Preview](./assets/images/readme-preview.gif)
 
   ## Credits
