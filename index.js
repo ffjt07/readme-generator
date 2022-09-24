@@ -26,7 +26,7 @@ const questions = [
       },
       {
         type: "input",
-        message: "Instructions for use",
+        message: "Instructions for use:",
         name: "instruct",
       },
       {
@@ -42,13 +42,18 @@ const questions = [
       },
       {
         type: "input",
-        message: "How to contribute",
+        message: "How to contribute?",
         name: "giveme$",
       },
       {
         type: "input",
-        message: "How to test the app",
+        message: "How to test the app?",
         name: "test",
+      },
+      {
+        type: "input",
+        message: "What is your email address?",
+        name: "email",
       },
 ];
 
