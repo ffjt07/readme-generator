@@ -18,11 +18,11 @@ function renderLicenseLink(license) {
   if(license === "None") {
     return ""
   } else if (license === "APACHE 2.0") {
-    return "[https://opensource.org/licenses/Apache-2.0]\n"
+    return "https://opensource.org/licenses/Apache-2.0\n"
   } else if (license === "MIT") {
-    return "[https://opensource.org/licenses/MIT])\n"
+    return "https://opensource.org/licenses/MIT\n"
   } else {
-    return "[https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html]\n"
+    return "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html\n"
 }
 }
 
