@@ -21,6 +21,8 @@
   
   ![README Preview](./assets/images/readme-preview.gif)
 
+  [Walkthrough Video](https://drive.google.com/file/d/1ihULgMlYQKXmnSpQ41G_2MtKhKDVqhz8/view)
+
   ## Credits
 
   Jeremiah
